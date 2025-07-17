@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-calculator-web-app-15e9b7c7/calculator_frontend"
+}
